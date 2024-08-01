@@ -1,7 +1,7 @@
 # Online Retail Dashboard
 The Given Dataset provided by Tata Group 
 
-## The given qustion was solved by myself
+## The given question was solved by myself during the program:
 
 - Q1. The retail store's CEO is curious to see the revenue data time series for the year 2011 exclusively.
 
